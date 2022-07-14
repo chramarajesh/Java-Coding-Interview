@@ -1,6 +1,6 @@
 package com.code.practice;
 public class StringReverse {
-
+//Reverse of the string.
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String reverse = "";
